@@ -68,7 +68,9 @@ a .fa-envelope {
     grid-template-columns: repeat(6, 2fr);
     justify-items: center;
     align-content: space-between;
+    margin-top:10rem;
   }
+  
   main i {
     font-size: 7.5rem;
   }
